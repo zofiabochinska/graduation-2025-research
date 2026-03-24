@@ -3,7 +3,7 @@
 ---
 
 Hi there! 
-My name is Zofia, I am a [graphic designer(ess)](zofiabochinska.com), massive yapper and a very unserious gamer. This is my Obsidian repo where I stored and reflected on all of the research I did during my Graduation period in 2025. 
+My name is Zofia, I am a [graphic designer(ess)]([www.zofiabochinska.com](https://zofiabochinska.com/)), massive yapper and a very unserious gamer. This is my Obsidian repo where I stored and reflected on all of the research I did during my Graduation period in 2025. 
 
 In the end, I graduated with:
 - an interactive novel called ["Welcome to Approx AI!"](https://zofia-bochinska.itch.io)
