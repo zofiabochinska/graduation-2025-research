@@ -11,4 +11,11 @@ body {
     //   color: black;
     //  }
     --dg-filetree-width: 100%;
+    
+    @media (max-width: 1400px) {
+        .filetree-wrapper {
+            width: 250px;
+            justify-content: flex-start;
+        }
+    }
 }
