@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-research/tools/pixabay-for-sounds/","dg-note-properties":{"date created":"Thursday, March 27th 2025","date modified":"Friday, April 11th 2025"}}
+{"dg-publish":true,"permalink":"/1-research/tools/pixabay-for-sounds/","dg-note-properties":{"date created":"Thursday, March 27th 2025","date modified":"Tuesday, March 24th 2026"}}
 ---
 
 [Link](https://pixabay.com/sound-effects/)
