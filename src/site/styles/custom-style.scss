@@ -8,7 +8,7 @@ body {
 /* h1 { color: black; } */
     overflow-x: hidden;
 
-    --dg-filetree-width: 280px;
+    --dg-filetree-width: clamp(220px, 18vw, 320px);
     
     @media (max-width: 1400px) {
         .filetree-wrapper {
