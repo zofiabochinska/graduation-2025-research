@@ -3,16 +3,12 @@ body {
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+   /* background-color: white; */
+/* .content { font-size: 14px; } */
+/* h1 { color: black; } */
     overflow-x: hidden;
 
-    --dg-filetree-width: 100%;
+    --dg-filetree-width: 280px;
     
     @media (max-width: 1400px) {
         .filetree-wrapper {
