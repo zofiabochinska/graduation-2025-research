@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"dg-note-properties":{"date created":"Tuesday, March 24th 2026","date modified":"Tuesday, March 24th 2026"}}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"dg-note-properties":{"date created":"Tuesday, March 24th 2026","date modified":"Sunday, April 19th 2026"}}
 ---
 
 Hi there! 
-My name is Zofia, I am a [graphic designer(ess)]([www.zofiabochinska.com](https://zofiabochinska.com/)), massive yapper and a very unserious gamer. This is my Obsidian repo where I stored and reflected on all of the research I did during my Graduation period in 2025. 
+My name is Zofia, I am a [graphic designer(ess)](https://zofiabochinska.com/), massive yapper and a very unserious gamer. This is my Obsidian repo where I stored and reflected on all of the research I did during my Graduation period in 2025. 
 
 In the end, I graduated with:
 - an interactive novel called ["Welcome to Approx AI!"](https://zofia-bochinska.itch.io)
